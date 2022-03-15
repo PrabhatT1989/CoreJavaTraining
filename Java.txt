@@ -1,0 +1,98 @@
+what is class?
+
+class is a combination of Methods/variable , Object and Constructor
+
+if anything is missing we cant execute our pgm
+
+
+class A
+{
+
+//varible/method and constructor , object
+
+sysout(
+}
+
+what is object?
+
+
+Object is a replica of class - it is a blue print of class
+
+
+
+WebDriver driver = new ChromeDriver() //run time polymorphism/constructor //MOL/OR /Inheritance/class and object
+
+
+Assignment :- create 4 class and each class should contains 3 method
+all method should call inside into psvm 
+
+one jave file
+
+
+12.5+12.5
+
+
+WHAT IS INHERITANCE ?
+
+aquaring the properties from the parent class - that is inheritance
+we can achieve with the help of extends keyword in java
+
+
+
+what is multilevel inheritance
+
+step by step inheritance or Generation by generation transformation is called a Multilevel inheritance
+
+
+
+what is multiple inheritance
+
+one class want to inherit more than one class at a time - multiple inheritance
+
+
+can we achieve multiple inheritance in java
+
+No , we cant achieve multiple inheritance at class level but we can achieve at interface level
+
+Interface part will discuss later
+
+
+what is the major difference of multiple and multilevel inheritance
+
+
+
+
+what is single inheritance --- is simple inheritance -- extends 
+
+
+what is many to one inheritance
+
+
+what is one to many inheritance-- Multiple inheritance - interface level
+
+Assignment :- Currency - 
+
+which country you will create a object that currency should print - 
+
+with the help of inheritance
+
+India a= new India()
+a.
+
+Method Overloading 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
