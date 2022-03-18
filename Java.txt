@@ -79,7 +79,30 @@ with the help of inheritance
 India a= new India()
 a.
 
-Method Overloading 
+Method Overloading - Same Methods but different signature/parameter/data type is called a
+Method Overloading
+
+We can achieve at single class only - no need to use inheritance
+
+Data Type
+
+10 20 30 --- by default it is integer
+
+int- whole number --  medium Range
+long -- whole number --- high Range
+short-- whole number ---- less than integer but higher than byte
+byte -- whole number -- very less
+
+double -- decimal value --- high range
+float -- decimal value---- Low range
+
+
+blooean -- true /false
+
+Char -- 'a'
+
+String - String is not a Data type - it is class 
+that part will discuss at String Concept - we will use like a Data Type -- "<Anything>" 
 
 
 
