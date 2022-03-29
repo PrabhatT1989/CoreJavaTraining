@@ -104,6 +104,41 @@ Char -- 'a'
 String - String is not a Data type - it is class 
 that part will discuss at String Concept - we will use like a Data Type -- "<Anything>" 
 
+Method Over riding :-  Same Methods , Same Signature but different implementation - that is called a method over riding
+
+we can achieve with the help of inheritance
+
+Assignment :- MNC Pgm with the help of method overriding
+
+Constructor -
+
+5methods
+
+|America| Nike | A1 |
+|Austrilia | Puma | A2 |
+
+Wait wait = new Wait(
+
+wait.until(ex
+
+
+withtimeout
+polling every 
+util
+
+
+Constructor :- 
+
+Constructor name and class name should be same
+
+if  user not declaring any constructor - jvm will create default/blank constructor
+
+if user is declaring any constructor - jvm never create balnk/default constructor
+
+constructor doesnt have any return type ------ like a void 
+
+
+
 
 
 

@@ -6,8 +6,10 @@ class GP
 	}
 }
 
-class Parents 
+class Parents extends GP
 {
+	
+	
 	
 	public void parentFeature()
 	{
@@ -15,7 +17,7 @@ class Parents
 	}
 }
 
-class Child extends Parents,GP
+class Child extends Parents
 {
 	
 	public void childFeature()
