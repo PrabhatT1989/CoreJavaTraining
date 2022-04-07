@@ -13,7 +13,9 @@ class KFCAmerica
 
 class KFCIndia extends KFCAmerica
 {
-	
+	/*
+	 * public void IndiaPizza() { System.out.println("Pizza"); }
+	 */
 	
 	public void Location()
 	{
@@ -36,9 +38,10 @@ public class RealTimeMethodOverriding {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		KFCIndia k = new KFCIndia();
+		KFCAmerica k = new KFCIndia();
 		k.Location();
 		k.Product();
+		//k.IndiaPizza();
 
 	}
 

@@ -138,6 +138,23 @@ if user is declaring any constructor - jvm never create balnk/default constructo
 constructor doesnt have any return type ------ like a void 
 
 
+Polymorphism :- Same object behaving different different instance through out the execution of the pgm
+
+That is called a Polymorphism.
+
+
+Two Type Of polymorphism
+
+Run Time Polymorphism --- Method Over riding , Inheritance , Upcasting --- all three is mandatory to achive RTP
+
+
+Create a object of parent and call child constructor is called a Upcating
+
+Compile Time Polymorphsim ---- Method Over loading
+
+Assignment - How we can say that method over loading is a part of  Compile Time Polymorphism
+
+
 
 
 

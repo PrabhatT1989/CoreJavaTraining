@@ -1,6 +1,6 @@
 class Cons
 {
-	Cons(String a)
+	 Cons(String a)
 	{
 		System.out.println("calling string");
 	}
@@ -16,6 +16,8 @@ class Cons
 	
 	
 }
+
+
 public class ConstructorPgm {
 
 	public static void main(String[] args) {
@@ -23,8 +25,8 @@ public class ConstructorPgm {
 		
 	//int a = 20;
 		
-		new Cons(10,"test");
-		new Cons("Test");
+		 new Cons(10,"test");
+	//	new Cons("Test");
 		new Cons(20.5);
 		
 
