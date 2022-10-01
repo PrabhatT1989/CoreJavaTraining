@@ -16,7 +16,7 @@ public class MethodOverloading {
 		// TODO Auto-generated method stub
 		
 		Mol m = new Mol();
-		m.Test(10,"Test");
+		m.Test(10,"test");
 
 	}
 

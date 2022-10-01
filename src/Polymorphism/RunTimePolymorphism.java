@@ -1,19 +1,20 @@
 package Polymorphism;
 
-class Animal
+abstract class Animal
 {
-	public void Voice()
-	{
-		System.out.println("Animal Voice");
-	}
+	abstract public void Voice();
+	
 }
 
 class Tiger extends Animal
 {
-	public void Voice()
-	{
+
+	@Override
+	public void Voice() {
+		// TODO Auto-generated method stub
 		System.out.println("Roaring");
 	}
+	
 }
 
 class Dog extends Animal

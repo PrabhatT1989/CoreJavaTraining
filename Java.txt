@@ -156,6 +156,92 @@ Assignment - How we can say that method over loading is a part of  Compile Time 
 
 
 
+Abstraction - - it is a Keyword in java
+
+Abstract can be a class and method as well but some conditionis there 
+
+If class is abstract then we can apply abstract method 
+
+Abstrcat can contains Abstract method and non abstract method as well
+
+Abstract Method - Unimplemented /Undefined / with out body
+
+Non Abstract Method - That is same method which we are declaring in other class as well
+
+Abtract class is not a Complete class 
+
+we cant achieve 100% abstraction in Abstract class 
+
+
+Interface - achieve only abstract method - 100% abstraction in interface
+
+
+Interface can contain only abstract method
+
+It is not mandatory give keyword of abstract in Method - by default any method is called a Abstract method
+
+
+Class can Implements Interface - 
+
+class - class - Extends
+interface - interface - extends
+Interface - class - implements
+
+Nested Classes ?
+
+
+class - class -  true
+
+Class - Interface -- True
+
+Interface - Class  -- True
+
+Interface - Interface    True
+
+Anonymous Class ?
+
+
+super - Parent
+
+--Super will use in Variable
+- Super will use in Methods
+--Super will use in Constructor 
+
+
+Super calling Parent 
+
+when we will use super - always we will use extends keyword - that is mandatory
+
+if Constructor doesnt have any parameter in parent class - Super will invoke by default 
+
+super constructor should be first statement
+
+
+This -  Current
+
+This is use for variable/Methods and Constrcutor
+
+
+
+- static can be a variable
+-static can be a method
+-static can be nested class
+
+
+stack memory   heap memory   class memeory
+
+shape              tringle       shape= tringle
+
+
+String is Immutable 
+
+
+
+
+
+
+
+
 
 
 
